@@ -17,3 +17,5 @@ git branch
 git merge (branch) 合并分支 branch合并到当前
 
 012345
+0
+1
