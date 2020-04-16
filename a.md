@@ -16,4 +16,4 @@ merge
 git branch
 git merge (branch) 合并分支 branch合并到当前
 
-01
+012345
