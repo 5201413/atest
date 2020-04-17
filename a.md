@@ -1,10 +1,22 @@
 ## aa
 - a
 - b
+
 - c
 - asdf
 # lkjlkjlj
 
-1
+10
 2
 3201234567
+**注脚**    
+
+Content [^1]
+
+[^1]: Hi! This is a footnote
+
+正文[^9]文字
+[^9]: 脚注内容
+0
+
+
